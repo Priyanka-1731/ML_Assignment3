@@ -32,6 +32,3 @@ Trained model files are saved to:
 - `/content/dann_model.pt`
 - `/content/cgan_cnn_model.pt`
 - `/content/unified_model.pt`
-
-## Final Model Download Link
-[unified_model.pt](PASTE YOUR GOOGLE DRIVE LINK HERE)
